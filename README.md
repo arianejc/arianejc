@@ -44,8 +44,8 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 
 ### 🌐 Web Development
 - <img src=https://img.shields.io/badge/REST_APIs-yellow> 
-- <img src=https://img.shields.io/badge/FrontEnd-HTML-yellow> <img src=https://img.shields.io/badge/FrontEnd-CSS-yellow> <img src=https://img.shields.io/badge/FrontEnd-JavaScript-yellow> 
-- <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow>
+- <img src=https://img.shields.io/badge/Frontend-HTML-yellow> <img src=https://img.shields.io/badge/Frontend-CSS-yellow> <img src=https://img.shields.io/badge/Frontend-JavaScript-yellow> 
+- <img src=https://img.shields.io/badge/Backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/Backend-NodeJS-yellow>
 
 ### 📈 Data Analytics & Visualization
 - <img src=https://img.shields.io/badge/Analytics-Google_Analytics-pink> 

@@ -37,9 +37,9 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - <img src=https://img.shields.io/badge/Jenkins-purple>
 
 ### ☁️ Cloud Platforms
-- <img src=https://img.shields.io/badge/AWS-blue> 
-- <img src=https://img.shields.io/badge/GCP-blue> 
-- <img src=https://img.shields.io/badge/Azure-blue> 
+- <img src=https://img.shields.io/badge/AWS-cloud-blue> 
+- <img src=https://img.shields.io/badge/GCP-Cloud-blue> 
+- <img src=https://img.shields.io/badge/Azure-Cloud-blue> 
 - <img src=https://img.shields.io/badge/Kubernetes-Cluster_Management-blue> 
 
 ### 🌐 Web Development

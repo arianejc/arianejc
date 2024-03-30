@@ -18,7 +18,7 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 
 ## 🛠️ Technology Stack
 
-### 🖥️ Languages
+### 🖥️ Programming Languages
 - <img src=https://img.shields.io/badge/Java-Spring_Boot-red> <img src=https://img.shields.io/badge/Java-MVC-red> <img src=https://img.shields.io/badge/Java-AWS_SDK_v2-red> 
 - <img src=https://img.shields.io/badge/Python-Pandas-red> <img src=https://img.shields.io/badge/Python-Numpy-red> <img src=https://img.shields.io/badge/Python-Tensorflow-red> <img src=https://img.shields.io/badge/Python-Keras-red> <img src=https://img.shields.io/badge/Python-Spacy-red> <img src=https://img.shields.io/badge/Python-nltk-red> <img src=https://img.shields.io/badge/Python-Beautiful_Soup-red> <img src=https://img.shields.io/badge/Python-MatplotLib-red> <img src=https://img.shields.io/badge/Python-FastAPI-red> <img src=https://img.shields.io/badge/Python-Scrapy-red> 
 - <img src=https://img.shields.io/badge/Scala-Spark_RDDs-red>
@@ -31,7 +31,7 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - <img src=https://img.shields.io/badge/GraphSQL-Neo4j-green>
 - <img src=https://img.shields.io/badge/BigData-Spark-green> <img src=https://img.shields.io/badge/BigData-Hadoop-green> <img src=https://img.shields.io/badge/BigData-Apache_Kafka-green> 
 
-### 🐳 Container Orchestration and Deployment Tools
+### 🐳 Containerization and Deployment 
 - <img src=https://img.shields.io/badge/Docker-purple>
 - <img src=https://img.shields.io/badge/Terraform-purple>
 - <img src=https://img.shields.io/badge/Jenkins-purple>
@@ -45,5 +45,13 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 ### 🌐 Web Development
 - <img src=https://img.shields.io/badge/REST_APIs-yellow> 
 - <img src=https://img.shields.io/badge/FrontEnd-HTML-yellow> <img src=https://img.shields.io/badge/FrontEnd-CSS-yellow> <img src=https://img.shields.io/badge/FrontEnd-JavaScript-yellow> 
-- <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow> 
+- <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow>
+
+### 📈 Data Analytics & Visualization
+- <img src=https://img.shields.io/badge/Google-Analytics-pink> 
+- <img src=https://img.shields.io/badge/Adobe-Analytics-pink> 
+- <img src=https://img.shields.io/badge/Microsoft_Excel-Analytics-pink> 
+- <img src=https://img.shields.io/badge/Tableau-Visualization_Software-pink> 
+- <img src=https://img.shields.io/badge/Microsoft_PowerBI-Visualization_Software-pink> 
+
 

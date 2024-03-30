@@ -37,10 +37,10 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - <img src=https://img.shields.io/badge/Jenkins-purple>
 
 ### ☁️ Cloud Platforms
-- <img src=https://img.shields.io/badge/AWS-cloud-blue> 
-- <img src=https://img.shields.io/badge/GCP-Cloud-blue> 
-- <img src=https://img.shields.io/badge/Azure-Cloud-blue> 
-- <img src=https://img.shields.io/badge/Kubernetes-Cluster_Management-blue> 
+- <img src=https://img.shields.io/badge/Cloud-AWS-blue> 
+- <img src=https://img.shields.io/badge/Cloud-Azure-blue> 
+- <img src=https://img.shields.io/badge/Cloud-GCP-blue> 
+- <img src=https://img.shields.io/badge/Cluster_Management-Kubernetes-blue> 
 
 ### 🌐 Web Development
 - <img src=https://img.shields.io/badge/REST_APIs-yellow> 
@@ -48,10 +48,10 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow>
 
 ### 📈 Data Analytics & Visualization
-- <img src=https://img.shields.io/badge/Google-Analytics-pink> 
-- <img src=https://img.shields.io/badge/Adobe-Analytics-pink> 
-- <img src=https://img.shields.io/badge/Microsoft_Excel-Analytics-pink> 
-- <img src=https://img.shields.io/badge/Tableau-Visualization_Software-pink> 
-- <img src=https://img.shields.io/badge/Microsoft_PowerBI-Visualization_Software-pink> 
+- <img src=https://img.shields.io/badge/Analytics-Google_Analytics-pink> 
+- <img src=https://img.shields.io/badge/Analytics-Adobe_Analytics-pink> 
+- <img src=https://img.shields.io/badge/Analytics-Microsoft_Excel-pink> 
+- <img src=https://img.shields.io/badge/Visualization_Software-Tableau-pink> 
+- <img src=https://img.shields.io/badge/Visualization_Software-Microsoft_PowerBI-pink> 
 
 

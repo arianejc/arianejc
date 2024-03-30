@@ -14,3 +14,36 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/ariane-jean-correa)
 - Email: [arianejeancorrea@gmail.com](mailto:arianejeancorrea@gmail.com)
+
+
+## 🛠️ Technology Stack
+
+### 🖥️ Languages
+- <img src=https://img.shields.io/badge/Java-red> 
+- <img src=https://img.shields.io/badge/Python-red> 
+- <img src=https://img.shields.io/badge/C++-red>
+- <img src=https://img.shields.io/badge/Scala-red>
+
+
+### 🗄️ Data Management
+- <img src=https://img.shields.io/badge/SQL-Oracle_SQL-green> <img src=https://img.shields.io/badge/SQL-MySQL-green> <img src=https://img.shields.io/badge/SQL-SQL_Server-green>
+- <img src=https://img.shields.io/badge/NoSQL-MongoDB-green> <img src=https://img.shields.io/badge/NoSQL-HBase-green>
+- <img src=https://img.shields.io/badge/GraphSQL-Neo4j-green>
+- <img src=https://img.shields.io/badge/BigData-Spark-green> <img src=https://img.shields.io/badge/BigData-Hadoop-green> <img src=https://img.shields.io/badge/BigData-Apache_Kafka-green> 
+
+### 🐳 Container Orchestration and Deployment Tools
+- <img src=https://img.shields.io/badge/Docker-purple>
+- <img src=https://img.shields.io/badge/Terraform-purple>
+- <img src=https://img.shields.io/badge/Jenkins-purple>
+
+### ☁️ Cloud Platforms
+- <img src=https://img.shields.io/badge/AWS-blue> 
+- <img src=https://img.shields.io/badge/GCP-blue> 
+- <img src=https://img.shields.io/badge/Azure-blue> 
+- <img src=https://img.shields.io/badge/Kubernetes-Cluster_Management-blue> 
+
+### 🌐 Web Development
+- <img src=https://img.shields.io/badge/REST_APIs-yellow> 
+- <img src=https://img.shields.io/badge/FrontEnd-HTML-yellow> <img src=https://img.shields.io/badge/FrontEnd-CSS-yellow> <img src=https://img.shields.io/badge/FrontEnd-JavaScript-yellow> 
+- <img src=https://img.shields.io/badge/backend-ExpressJS-yellow> <img src=https://img.shields.io/badge/backend-NodeJS-yellow> 
+

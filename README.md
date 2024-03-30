@@ -8,7 +8,7 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - 💼  **Previously Worked At**: Oracle, Paramount Pictures
 - 💻 **Specialization**: Full-Stack Application Development & Backend development, with expertise in various architectures including monolithic, microservices, and serverless structures.
 - 🌱 **Passion**: I'm a fervent learner, always exploring the latest tech trends and actively pursuing certifications to expand my skill set and stay at the forefront of innovation.
-- 🧠 **Research Interests**: Currently, I'm diving deep into leveraging large-scale computing for tackling complex problems particularly in the GenAI space, aiming to unlock new frontiers in artificial intelligence.
+- 🧠 **Research Interests**: Currently, I'm diving deep into leveraging large-scale computing for tackling complex problems, particularly in the realm of distributed training, to unlock new frontiers in artificial intelligence and enhance the scalability and efficiency of machine learning models.
 
 ## Contact Me
 

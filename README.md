@@ -22,7 +22,7 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - <img src=https://img.shields.io/badge/Java-Spring_Boot-red> <img src=https://img.shields.io/badge/Java-MVC-red> <img src=https://img.shields.io/badge/Java-AWS_SDK_v2-red> 
 - <img src=https://img.shields.io/badge/Python-Pandas-red> <img src=https://img.shields.io/badge/Python-Numpy-red> <img src=https://img.shields.io/badge/Python-Tensorflow-red> <img src=https://img.shields.io/badge/Python-Keras-red> <img src=https://img.shields.io/badge/Python-Spacy-red> <img src=https://img.shields.io/badge/Python-nltk-red> <img src=https://img.shields.io/badge/Python-Beautiful_Soup-red> <img src=https://img.shields.io/badge/Python-MatplotLib-red> <img src=https://img.shields.io/badge/Python-FastAPI-red> <img src=https://img.shields.io/badge/Python-Scrapy-red> 
 - <img src=https://img.shields.io/badge/Scala-Spark_RDDs-red>
-- <img src=https://img.shields.io/badge/C++> <img src=https://img.shields.io/badge/C-red> <img src=https://img.shields.io/badge/MATLAB-red> 
+- <img src=https://img.shields.io/badge/C++-grey> <img src=https://img.shields.io/badge/C-red> <img src=https://img.shields.io/badge/MATLAB-red> 
 
 
 ### 🗄️ Data Management

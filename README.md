@@ -2,7 +2,7 @@
 
 Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafting innovative solutions. 
 
-## About Me
+## 👩‍💼 About Me
 
 - 🎓 **Education**: Master's degree in Information Systems from Carnegie Mellon University, Bachelor's degree in Computer Engineering from the University of Mumbai.
 - 💼  **Previously Worked At**: Oracle, Paramount Pictures
@@ -10,7 +10,7 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 - 🌱 **Passion**: I'm a fervent learner, always exploring the latest tech trends and actively pursuing certifications to expand my skill set and stay at the forefront of innovation.
 - 🧠 **Research Interests**: Currently, I'm diving deep into leveraging large-scale computing for tackling complex problems, particularly in the realm of distributed training, to unlock new frontiers in artificial intelligence and enhance the scalability and efficiency of machine learning models.
 
-## Contact Me
+## 📫 Contact Me
 
 - LinkedIn: [Connect with me](https://www.linkedin.com/in/ariane-jean-correa)
 - Email: [arianejeancorrea@gmail.com](mailto:arianejeancorrea@gmail.com)
@@ -19,10 +19,10 @@ Hey there! I'm Ariane, a passionate Software Engineer with a penchant for crafti
 ## 🛠️ Technology Stack
 
 ### 🖥️ Languages
-- <img src=https://img.shields.io/badge/Java-red> 
-- <img src=https://img.shields.io/badge/Python-red> 
+- <img src=https://img.shields.io/badge/Java-Spring_Boot-red> <img src=https://img.shields.io/badge/Java-MVC-red> <img src=https://img.shields.io/badge/Java-AWS_SDK_v2-red> 
+- <img src=https://img.shields.io/badge/Python-Pandas-red> <img src=https://img.shields.io/badge/Python-Numpy-red> <img src=https://img.shields.io/badge/Python-Tensorflow-red> <img src=https://img.shields.io/badge/Python-Keras-red> <img src=https://img.shields.io/badge/Python-Spacy-red> <img src=https://img.shields.io/badge/Python-nltk-red> <img src=https://img.shields.io/badge/Python-Beautiful_Soup-red> <img src=https://img.shields.io/badge/Python-MatplotLib-red> <img src=https://img.shields.io/badge/Python-FastAPI-red> <img src=https://img.shields.io/badge/Python-Scrapy-red> 
+- <img src=https://img.shields.io/badge/Scala-Spark_RDDs-red>
 - <img src=https://img.shields.io/badge/C++-red>
-- <img src=https://img.shields.io/badge/Scala-red>
 
 
 ### 🗄️ Data Management
